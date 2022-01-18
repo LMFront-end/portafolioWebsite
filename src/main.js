@@ -1,7 +1,7 @@
 /* ============== typing animation ============ */
 
 const typed = new Typed(".typing", {
-    strings: [" ", "Web Developer", "Web Developer", "Front-end Developer", "Engineer Food"],
+    strings: [" ", "Web Developer", "Web Developer", "Front-end Developer", "Food Engineer"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
